@@ -19,7 +19,7 @@ export const EXPERIENCES = [
     year: "2024 - Present",
     role: "Scholarship student",
     company: "Codepolitan",
-    description: "I am currently a scholarship recipient learning Frontend JavaScript development, focusing on building responsive and interactive web applications using modern technologies like React and Tailwind CSS.",
+    description: `I am currently a scholarship recipient learning Frontend JavaScript development, focusing on building responsive and interactive web applications using modern technologies like React and Tailwind CSS.`,
     technologies: ["HTML", "CSS", "Bootstrap", "Tailwind", "JavaScript", "React"],
   },
   {
