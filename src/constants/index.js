@@ -13,14 +13,14 @@ export const EXPERIENCES = [
     role: "Informatics Engineering Student",
     company: "Unikom",
     description: `A dedicated Informatics Engineering student at Universitas Komputer Indonesia, specializing in web development, programming, algorithm design, and continuously improving skills in modern frameworks and technologies.`,
-    technologies: ["HTML", "CSS", "JavaScript", "Python"],
+    technologies: ["JavaScript", "Python", "Java", "PHP"],
   },
   {
-    year: "2024 - Present",
+    year: "2025 - Present",
     role: "Scholarship student",
     company: "Codepolitan",
     description: `I am currently a scholarship recipient learning Frontend JavaScript development, focusing on building responsive and interactive web applications using modern technologies like React and Tailwind CSS.`,
-    technologies: ["HTML", "CSS", "Bootstrap", "Tailwind", "JavaScript", "React"],
+    technologies: ["Bootstrap", "Tailwind", "JavaScript", "React"],
   },
   {
     year: "2024 - Present",
