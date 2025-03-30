@@ -17,17 +17,17 @@ export const EXPERIENCES = [
   },
   {
     year: "2024 - Present",
+    role: "Scholarship student",
+    company: "Codepolitan",
+    description: "I am currently a scholarship recipient learning Frontend JavaScript development, focusing on building responsive and interactive web applications using modern technologies like React and Tailwind CSS.",
+    technologies: ["HTML", "CSS", "Bootstrap", "Tailwind", "JavaScript", "React"],
+  },
+  {
+    year: "2024 - Present",
     role: "Frontend Developer",
     company: "Amdev",
     description: `A passionate Frontend Developer at AMDEV, crafting visually appealing and interactive websites, focusing on delivering seamless user experiences and maintaining clean, efficient, and scalable code in every project.`,
-    technologies: ["TailwindCss", "React", "Next.js"],
-  },
-  {
-    year: "2023 - 2024",
-    role: "Frelance",
-    company: "AmProject",
-    description: `A freelance Frontend Developer specializing in creating responsive and visually engaging websites, delivering tailored solutions that combine functionality, aesthetics, and seamless user experiences for various client projects.`,
-    technologies: ["HTML", "CSS", "Javascript", "Bootstrap"],
+    technologies: ["TailwindCss", "JavaScript", "React"],
   },
 ];
 
