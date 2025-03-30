@@ -27,7 +27,7 @@ export const EXPERIENCES = [
     role: "Frontend Developer",
     company: "Amdev",
     description: `A passionate Frontend Developer at AMDEV, crafting visually appealing and interactive websites, focusing on delivering seamless user experiences and maintaining clean, efficient, and scalable code in every project.`,
-    technologies: ["TailwindCss", "JavaScript", "React"],
+    technologies: ["TailwindCss", "JavaScript", "React", "Vite"],
   },
 ];
 
