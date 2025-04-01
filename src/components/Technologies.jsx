@@ -2,7 +2,7 @@ import { RiBootstrapLine } from "react-icons/ri";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { DiJavascript1 } from "react-icons/di";
 import { RiReactjsLine } from "react-icons/ri";
-import { FaNodeJs } from "react-icons/fa";
+import { TbBrandVite } from "react-icons/tb";
 import { FaPython } from "react-icons/fa";
 
 import { VscVscode } from "react-icons/vsc";
@@ -56,7 +56,7 @@ const Technologies = () => {
           </motion.div>
           <motion.div variants={iconVariants(2)} initial="initial" animate="animate" className="rounded-2xl p-1 bg-gradient-to-br from-pink-400 via-slate-500 to-purple-500">
             <div className="bg-slate-950 h-full w-full p-4 rounded-2xl">
-              <FaNodeJs className="text-6xl text-green-500" />
+              <TbBrandVite className="text-6xl text-purple-500" />
             </div>
           </motion.div>
           <motion.div variants={iconVariants(2.5)} initial="initial" animate="animate" className="rounded-2xl p-1 bg-gradient-to-br from-pink-400 via-slate-500 to-purple-500">
